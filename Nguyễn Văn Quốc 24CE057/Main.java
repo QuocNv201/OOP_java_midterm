@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class LibraryManagement {
+public class Main {
 	    private static Scanner scanner = new Scanner(System.in);
 	    private static BookManager bookManager = new BookManager();
 
